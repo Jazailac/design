@@ -29,8 +29,6 @@ It features a **sleek, functional design**, **adjustable camera movement**, and 
 
 ## 🎨 Parts & Components  
 
-📄 **Complete Parts List:** [Parts List.txt](Parts%20List.txt)  
-
 ### 🖨️ **3D Printed Parts**  
 - 🏠 **1×** Main Case  
 - 🔲 **1×** Lid  
